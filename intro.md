@@ -1,8 +1,6 @@
 ![logo](https://climate.copernicus.eu/sites/default/files/custom-uploads/branding/LogoLine_horizon_EC_Cop_ECMWF.png)
 
-
-
-# C3S Satellite-Observations (ECV) Hydrology and Cryosphere
+# C3S Satellite-Observations (ECV) - Hydrology and Cryosphere Tutorial
 
 **PLEASE NOTE THAT THIS A DEVELOPMENT INSTANCE, THESE NOTE BOOKS ARE OFFICIALLY PUBLISHED ELSEWHERE**
 
@@ -16,7 +14,7 @@ Satellite observations play a crucial role in monitoring various aspects of the 
 
 Surface water plays a vital role in the Earth's hydrological cycle, encompassing various components such as soil moisture, lakes, and rivers. This subsection focuses on the analysis of different aspects of surface water dynamics, including soil moisture anomalies and the characteristics of lake water bodies.
 
-### [Soil Moisture Anomaly Analysis](../soil-moisture-anomalies.ipynb)
+### Soil Moisture Anomaly Analysis
 
 In this tutorial we will download C3S Satellite Soil Moisture data from the [Copernicus Climate Data Store (CDS)](https://doi.org/10.24381/cds.d7782f18), read data stacks in python using [xarray](https://xarray.pydata.org/) and perform simple analyses of soil moisture anomalies over selected study areas.
 
@@ -31,7 +29,7 @@ The tutorial consists of the following main steps:
 ![logo](./img/.png)
 
 
-### [Tutorial: Visualising Lake Water Level (LWL) Timeseries](../lake-water-level.ipynb)
+### Lake Water Level Timeseries
 
 In this tutorial we will access lake products from the Climate Data Store (CDS) and analyse the timeseries of the lake water level on a selected lake. The tutorial comprises two main steps:
 
@@ -42,7 +40,7 @@ In this tutorial we will access lake products from the Climate Data Store (CDS) 
 
 ![logo](./img/.png)
 
-### [Lake Surface Water Temperature Analysis](../lake-surface-water-temperature.ipynb)
+### Lake Surface Water Temperature Analysis
 
 In this tutorial we will access lake surface water temperature data from the Climate Data Store (CDS) and plot
 
@@ -62,7 +60,7 @@ The tutorial comprises two main steps:
 
 Ice sheets are vast expanses of glacial ice covering landmasses, primarily Antarctica and Greenland. These ice sheets play a crucial role in global climate dynamics and sea level rise. This tutorial series provides insights into various aspects of ice sheet dynamics and related measurements.
 
-### [Ice Sheet Surface Elevation](../ice-sheet-surface-elevation.ipynb)
+### Ice Sheet Surface Elevation
 
 This tutorial will demonstrate how to plot a map of the average surface elevation change rates across the Greenland or Antarctic ice sheets, using data from the Copernicus Climate Change Service (C3S).
 
@@ -72,13 +70,15 @@ It will show you how to download data from the C3S Climate Data Store (CDS), cal
 
 ![logo](./img/.png)
 
-### [Ice Sheet Velocity](../ice-sheet-velocity.ipynb)
+### Ice Sheet Velocity
 
 This tutorial will demonstrate how to plot velocity maps and flow vectors of the Greenland Ice Sheet and its major outlet glaciers, using ice velocity data from the Copernicus Climate Change Service (C3S).
 
 It will show you how to download data from the C3S Climate Data Store (CDS), plot the maps and and display flow vectors on top.
 
-### [Ice Sheet Mass Balance](../ice-sheet-mass-balance.ipynb)
+![logo](./img/.png)
+
+### Ice Sheet Mass Balance
 
 This tutorial will demonstrate how to plot the Gravimetric Mass Balance (GMB) data for selected regions across the Greenland or Antarctic ice sheets, using data from the Copernicus Climate Change Service (C3S).
 
@@ -86,7 +86,7 @@ It will show you how to download data from the C3S Climate Data Store (CDS), cal
 
 ![logo](./img/.png)
 
-### [Glacier Mass Change](../glacier-mass-change.ipynb)
+### Glacier Mass Change
 
 Glaciers are smaller ice masses distinct from ice sheets but still contribute significantly to sea level rise. Glacier mass change refers to variations in the volume and mass of glaciers over time, primarily driven by climate factors. This tutorial section explores the processes influencing glacier mass change, techniques for measuring glacier mass balance, and the implications of glacier dynamics for global sea level rise.
 
