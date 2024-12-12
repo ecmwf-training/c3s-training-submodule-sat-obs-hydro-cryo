@@ -5,18 +5,18 @@ format: jb-book
 root: intro-jupyter-template
 chapters:
   #Surface Water      
-  - file: submodules/c3s-training-submodule-sat-obs-hydro-cryo/soil-moisture-anomalies
+  - file: soil-moisture-anomalies
     title: Soil Moisture Anomaly Analysis
-  - file: submodules/c3s-training-submodule-sat-obs-hydro-cryo/lake-water-level
+  - file: lake-water-level
     title: Lake Water Level Timeseries
-  - file: submodules/c3s-training-submodule-sat-obs-hydro-cryo/lake-surface-water-temperature
+  - file: lake-surface-water-temperature
     title: Lake Surface Water Temperature Analysis
   #Ice Sheets
-  - file: submodules/c3s-training-submodule-sat-obs-hydro-cryo/ice-sheet-surface-elevation
+  - file: ice-sheet-surface-elevation
     title: Ice Sheet Surface Elevation
-  - file: submodules/c3s-training-submodule-sat-obs-hydro-cryo/ice-sheet-velocity
+  - file: ice-sheet-velocity
     title: Ice Sheet Velocity
-  - file: submodules/c3s-training-submodule-sat-obs-hydro-cryo/ice-sheet-mass-balance
+  - file: ice-sheet-mass-balance
     title: Ice Sheet Mass Balance
-  - file: submodules/c3s-training-submodule-sat-obs-hydro-cryo/glacier-mass-change
+  - file: glacier-mass-change
     title: Glacier Mass Change
