@@ -4,19 +4,19 @@
 format: jb-book
 root: intro
 chapters:
-  #Surface Water      
+  # Surface Water      
   - file: soil-moisture-anomalies
     title: Soil Moisture Anomaly Analysis
-  - file: lake-water-level
-    title: Lake Water Level Timeseries
+  # - file: lake-water-level
+  #   title: Lake Water Level Timeseries
   - file: lake-surface-water-temperature
     title: Lake Surface Water Temperature Analysis
-  #Ice Sheets
+  # Ice Sheets
   - file: ice-sheet-surface-elevation
     title: Ice Sheet Surface Elevation
-  - file: ice-sheet-velocity
-    title: Ice Sheet Velocity
+  # - file: ice-sheet-velocity
+  #   title: Ice Sheet Velocity
   - file: ice-sheet-mass-balance
     title: Ice Sheet Mass Balance
-  - file: glacier-mass-change
-    title: Glacier Mass Change
+  # - file: glacier-mass-change
+  #   title: Glacier Mass Change

@@ -26,7 +26,7 @@ The tutorial consists of the following main steps:
 4. Application 2: Extract a time series for a single location and compute the soil moisture anomaly
 5. Application 3: Vectorized anomaly computation and data extraction for a study area
 
-![logo](./img/.png)
+<!-- ![logo](./img/.png) -->
 
 
 ### Lake Water Level Timeseries
@@ -38,7 +38,7 @@ In this tutorial we will access lake products from the Climate Data Store (CDS) 
 3. Visualise and save water level timeseries
 4. Visualise and save the yearly water level anomalies
 
-![logo](./img/.png)
+<!-- ![logo](./img/.png) -->
 
 ### Lake Surface Water Temperature Analysis
 
@@ -54,7 +54,7 @@ The tutorial comprises two main steps:
 3. Visualise the location of the lake centre (or of the preferred location) on the lake mask
 4. Plot the **LSWT, uncertainty and quality level for all the available pixels** on the selected lake **on a given date**
 
-![logo](./img/.png)
+<!-- ![logo](./img/.png) -->
 
 ## Ice Sheets
 
@@ -68,7 +68,7 @@ It should be noted that the Antarctica product is not updated since February 202
 
 It will show you how to download data from the C3S Climate Data Store (CDS), calculate average change rates over a selectable period, and display the results.
 
-![logo](./img/.png)
+<!-- ![logo](./img/.png) -->
 
 ### Ice Sheet Velocity
 
@@ -76,7 +76,7 @@ This tutorial will demonstrate how to plot velocity maps and flow vectors of the
 
 It will show you how to download data from the C3S Climate Data Store (CDS), plot the maps and and display flow vectors on top.
 
-![logo](./img/.png)
+<!-- ![logo](./img/.png) -->
 
 ### Ice Sheet Mass Balance
 
@@ -84,10 +84,10 @@ This tutorial will demonstrate how to plot the Gravimetric Mass Balance (GMB) da
 
 It will show you how to download data from the C3S Climate Data Store (CDS), calculate average change rates over a selectable period, and display the results.
 
-![logo](./img/.png)
+<!-- ![logo](./img/.png) -->
 
 ### Glacier Mass Change
 
 Glaciers are smaller ice masses distinct from ice sheets but still contribute significantly to sea level rise. Glacier mass change refers to variations in the volume and mass of glaciers over time, primarily driven by climate factors. This tutorial section explores the processes influencing glacier mass change, techniques for measuring glacier mass balance, and the implications of glacier dynamics for global sea level rise.
 
-![logo](./img/.png)
+<!-- ![logo](./img/.png) -->
