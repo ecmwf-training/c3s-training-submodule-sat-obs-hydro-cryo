@@ -1,6 +1,6 @@
 ![logo](https://climate.copernicus.eu/sites/default/files/custom-uploads/branding/LogoLine_horizon_EC_Cop_ECMWF.png)
 
-# C3S satellite observations (ECV) - Hydrology and cryosphere tutorial
+# C3S satellite observations (ECV) - hydrology and cryosphere tutorial
 
 Satellite observations play a crucial role in monitoring various aspects of the Earth's atmosphere, surface, and cryosphere. This tutorial series explores the utilization of satellite data for comprehensive meteorological analyses and environmental monitoring for Hydrology and Cryosphere domains. 
 
