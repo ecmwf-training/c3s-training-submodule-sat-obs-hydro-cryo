@@ -2,7 +2,7 @@
 
 # C3S satellite observations (ECV) - hydrology and cryosphere tutorial
 
-Satellite observations play a crucial role in monitoring various aspects of the Earth's atmosphere, surface, and cryosphere. This tutorial series explores the utilization of satellite data for comprehensive meteorological analyses and environmental monitoring for Hydrology and Cryosphere domains. 
+Satellite observations play a crucial role in monitoring various aspects of the Earth's atmosphere, surface, and cryosphere. This tutorial series explores the utilization of satellite data for comprehensive meteorological analyses and environmental monitoring for hydrology and cryosphere domains. 
 
 ## Surface water
 
@@ -10,7 +10,7 @@ Surface water plays a vital role in the Earth's hydrological cycle, encompassing
 
 ### Soil moisture anomaly analysis
 
-In this tutorial we will download C3S Satellite Soil Moisture data from the [Copernicus Climate Data Store (CDS)](https://doi.org/10.24381/cds.d7782f18), read data stacks in python using [xarray](https://xarray.pydata.org/) and perform simple analyses of soil moisture anomalies over selected study areas.
+In this tutorial we will download C3S satellite soil moisture data from the [Copernicus Climate Data Store (CDS)](https://doi.org/10.24381/cds.d7782f18), read data stacks in python using [xarray](https://xarray.pydata.org/) and perform simple analyses of soil moisture anomalies over selected study areas.
 
 The tutorial consists of the following main steps:
 
@@ -66,7 +66,7 @@ It will show you how to download data from the C3S Climate Data Store (CDS), cal
 
 ### Ice sheet velocity
 
-This tutorial will demonstrate how to plot velocity maps and flow vectors of the Greenland Ice Sheet and its major outlet glaciers, using ice velocity data from the Copernicus Climate Change Service (C3S).
+This tutorial will demonstrate how to plot velocity maps and flow vectors of the Greenland ice sheet and its major outlet glaciers, using ice velocity data from the Copernicus Climate Change Service (C3S).
 
 It will show you how to download data from the C3S Climate Data Store (CDS), plot the maps and and display flow vectors on top.
 
@@ -74,7 +74,7 @@ It will show you how to download data from the C3S Climate Data Store (CDS), plo
 
 ### Ice sheet mass balance
 
-This tutorial will demonstrate how to plot the Gravimetric Mass Balance (GMB) data for selected regions across the Greenland or Antarctic ice sheets, using data from the Copernicus Climate Change Service (C3S).
+This tutorial will demonstrate how to plot the gravimetric mass balance (GMB) data for selected regions across the Greenland or Antarctic ice sheets, using data from the Copernicus Climate Change Service (C3S).
 
 It will show you how to download data from the C3S Climate Data Store (CDS), calculate average change rates over a selectable period, and display the results.
 
